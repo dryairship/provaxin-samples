@@ -27,5 +27,4 @@ function downloadFile(fileName) {
     }
 }
 
-downloadFile("1.exe"); // malicious file
 downloadFile("2.exe"); // benign file
